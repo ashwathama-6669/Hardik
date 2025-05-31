@@ -30,3 +30,12 @@ AI/ML         : PyTorch, TensorFlow, Scikit-learn, Transformers, OpenAI API, Lan
 Cybersecurity : Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit, Netcat, Hydra
 Data & Cloud  : PostgreSQL, MongoDB, Firebase, Redis, AWS (EC2, S3), Docker, GitHub Actions
 Web & Tools   : Flask, FastAPI, Streamlit, React, Git, Linux, Postman, VS Code
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark" /> </p>
+
+📫 Let's Connect
+💼 LinkedIn : www.linkedin.com/in/hardik-hj
+
+
+📨 Email: hardikjangir6669@gmail.com
+
